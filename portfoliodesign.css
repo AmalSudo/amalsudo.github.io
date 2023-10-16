@@ -14,7 +14,7 @@ body{
 
 #navbar {
     overflow: hidden;
-    background-image: url("/C:/Users/10/Downloads/space2.png");
+    background-image: url("space2.png");
     background-size: cover;
     padding: 50px 5px;
     transition: 0.4s;
@@ -104,7 +104,7 @@ body{
 .text{
     padding: 2%;
     width: 100%;
-    background-image: url("/C:/Users/10/Downloads/space2.png");
+    background-image: url("space2.png");
     border-radius: 2%;
     height: 100%;
     margin-left: 2%;
@@ -115,7 +115,7 @@ body{
 }
 
 .footer{
-    background-image: url("/C:/Users/10/Downloads/footerspace.png");
+    background-image: url("footerspace.png");
     margin-top: 10% ;
     margin-bottom: 0%;
     padding: 2%;
