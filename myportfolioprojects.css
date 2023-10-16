@@ -1,0 +1,146 @@
+*{
+    margin: 0%;
+}
+body{
+    background-color: 	rgb(120, 134, 175);
+      
+}
+
+.topnav{
+    display: inline;
+    background-color: #6577B3;
+    width: 100%;
+    border-bottom:2px solid  rgb(217, 224, 228);
+	height: 100px;
+	margin: 0px;
+	position:fixed;
+	z-index: 100;
+	top:0;
+}
+
+.nav{
+    float:right;
+    padding: 20px;
+    display: inline;
+    font-size: 25px;
+    color: rgb(217, 224, 228);
+    padding-top: 30px;
+    font-family: 'Nunito', sans-serif;
+}
+.name{
+    font-family:'Nunito', sans-serif;
+    font-size: 35px;
+    color: rgb(227, 233, 236);
+    padding-top: 30px;
+    padding: 20px;
+    float: left;
+    text-shadow: 2px 1px #b3b1b1;
+}
+a{
+    text-decoration: none;
+}
+.nav:hover{
+    text-decoration:underline;
+}
+
+.all{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.items{
+    background-color: aliceblue;
+    border-radius: 5px;
+    border: 0px solid black;
+    margin: 15px;
+    width: 20%;
+    height: 350px;
+    box-shadow: 10px 10px 10px 10px rgb(0, 0, 0, 0.5);
+}
+
+.footer{
+    margin-top:20px;
+    text-align:center;
+    background-color: #b3b1b1;
+    height: fit-content;
+    align-items: center;
+    margin-bottom: 0%;
+
+}
+
+.d{
+    font-size: 30px;
+    padding: 0%;
+    font-weight:bolder ;
+    color:rgb(227, 233, 236);
+    font-family: 'Nunito', sans-serif;
+}
+
+.imagesclass{
+    padding: 15px;
+    width: 90%;
+
+}
+
+
+
+
+
+.contact{
+    font-family:'Nunito', sans-serif;
+    text-decoration: none;
+    color: black;
+
+}
+
+.contact:hover{
+    text-decoration: underline;
+    color: #6666CC;
+}
+
+.projectname{
+    font-size: 25px;
+    font-weight: 200;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    margin-left: 7px;
+    text-align: center;
+}
+
+.redirect{
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    text-align: center;
+    
+}
+
+.redirect:hover{
+    color:black;
+    text-decoration: underline;
+
+}
+
+.btn{
+    width: fit-content;
+    padding: 5px;
+    border: 0ch;
+    border-radius: 8px;
+    background-color:#6577B3;
+    color: rgb(217, 224, 228);
+}
+
+a{
+    color: rgb(217, 224, 228);
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.btnhover:hover{
+    color:rgb(217, 224, 228);
+
+}
+
+.btn:hover{
+    background-color: #a4a4a4;
+}
