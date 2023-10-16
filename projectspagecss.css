@@ -7,14 +7,14 @@
 }
 
 body{
-background-image: url("/C:/Users/10/Downloads/backgndspace.png");
+background-image: url("backgndspace.png");
 
 
 }
 
 #navbar {
   overflow: hidden;
-  background-image: url("/C:/Users/10/Downloads/space2.png");
+  background-image: url("space2.png");
   background-size: cover;
   padding: 50px 5px;
   transition: 0.4s;
@@ -83,7 +83,7 @@ background-image: url("/C:/Users/10/Downloads/backgndspace.png");
 }
 
 .projectdis{
-    background-image: url("/C:/Users/10/Desktop/project/spaceimage.jpg");
+    background-image: url("spaceimage.jpg");
     height: 100%;
     width: 60%;
     border-radius:  1%;
@@ -107,7 +107,7 @@ background-image: url("/C:/Users/10/Downloads/backgndspace.png");
 }
 
 .footer{
-  background-image: url("/C:/Users/10/Downloads/footerspace.png");
+  background-image: url("footerspace.png");
   margin-top: 10% ;
   margin-bottom: 0%;
   padding: 2%;
