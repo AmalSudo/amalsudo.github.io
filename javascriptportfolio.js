@@ -12,10 +12,10 @@ function scrollFunction() {
 
 function changePhoto(){
   var image= document.getElementById("myImage");
-  image.setAttribute("src","project/photo1.png")
+  image.setAttribute("src","photo1.png")
 }
 
 function changePhoto2(){
   var image= document.getElementById("myImage2");
-  image.setAttribute("src","project/photo2.png")
+  image.setAttribute("src","photo2.png")
 }
