@@ -86,12 +86,33 @@ background-image: url("backgndspace.png");
     background-image: url("spaceimage.jpg");
     height: 100%;
     width: 60%;
-    border-radius:  1%;
+    border-radius: 1%;
 }
 
-.projectdis p{
-    padding: 5%;
+.projectname{
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 0%;
     color: #fdfcfd;
+}
+
+.projectslink{
+  padding-left: 5%;
+  padding-top: 2%;
+  padding-bottom: 3%;
+
+}
+.projectslink a{
+  text-decoration: none;
+}
+
+.projectslink:hover a{
+  color:  #b9b6b6;
+  text-decoration:underline;
+}
+
+.projectslink:hover{
+  padding-bottom: 7%;
 }
 
 .image1{
@@ -102,9 +123,7 @@ background-image: url("backgndspace.png");
 }
 
 
-.projectdis:hover{
-    padding-bottom: 5%;
-}
+
 
 .footer{
   background-image: url("footerspace.png");
@@ -127,3 +146,4 @@ background-image: url("backgndspace.png");
 .footerelements:hover{
   text-decoration: underline;
 }
+
